@@ -1,3 +1,5 @@
+### Not maintained and not working anymore, use [MinamiChiwa/Trainers-Legend-G](https://github.com/MinamiChiwa/Trainers-Legend-G) instead
+
 # 中文
 ## 赛马娘 (DMM版) 本地化补丁
 
